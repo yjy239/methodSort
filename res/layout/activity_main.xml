@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/insertSort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="insert Sort"/>
+    
+    <Button
+        android:id="@+id/shellSort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Shell Sort"/>
+    
+    <Button
+        android:id="@+id/divideSort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="divideSort"/>
+    
+    <Button
+        android:id="@+id/SimpleSort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Simple Sort"/>
+    
+    <Button
+        android:id="@+id/HeapSort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Heap Sort"/>
+    
+    <Button
+        android:id="@+id/bubbleSort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bubble Sort"/>
+    
+    <Button
+        android:id="@+id/quickSort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quick Sort"/>
+    
+    <Button
+        android:id="@+id/mergeSort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Merge Sort"/>
+    
+    <Button
+        android:id="@+id/radixSort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="radix Sort"/>
+
+</LinearLayout>
